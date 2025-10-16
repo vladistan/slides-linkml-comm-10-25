@@ -1,0 +1,15 @@
+/intro.tex
+/slides.aux
+*.log
+/slides.nav
+/slides.out
+.#*
+\#*
+*.swp
+/slides.pdf
+/slides.snm
+/slides.toc
+*.aux
+/slides.blg
+/slides.bbl
+/.envrc

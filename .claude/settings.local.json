@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(just)",
+      "Read(//Users/vlad/Proj/mine/wiki2beamer/.venv/bin/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
